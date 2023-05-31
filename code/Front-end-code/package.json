@@ -1,0 +1,32 @@
+{
+  "name": "cli3_project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.5",
+    "echarts": "^4.9.0",
+    "element-ui": "^2.13.2",
+    "file-saver": "^2.0.2",
+    "hexo-all-minifier": "^0.5.7",
+    "nprogress": "^0.2.0",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
+    "vue-json-excel": "^0.2.98",
+    "vue-router": "^3.3.4",
+    "vuex": "^3.5.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "compression-webpack-plugin": "^6.0.2",
+    "image-webpack-loader": "^8.1.0",
+    "script-loader": "^0.7.2",
+    "vue-template-compiler": "^2.6.11",
+    "xlsx": "^0.16.6"
+  }
+}
